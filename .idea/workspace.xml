@@ -4,62 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4765670-44fd-4a73-b960-f7d25fa9e671" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReviewMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReviewMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/helloshop/order/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/helloshop/order/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/helloshop/product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/helloshop/product/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/helloshop/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/helloshop/user/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MemberConstruct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MemberInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MemberThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MethodInitMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/MethodInitMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/ex/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct/ex/BookMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ValueData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ValueDataMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ValueObjectMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex/AccountMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop1/ex/RectangleOopMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/BigData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/InitData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/InitMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/Method1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/Method2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/MethodChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/NullMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/NullMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/NullMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/NullMain4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/VarChange2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrderMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="d4765670-44fd-4a73-b960-f7d25fa9e671" name="Changes" comment="Section1-Section6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +21,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/gistraw0454/Java_Study.git",
+    "accountId": "8566f93d-47f6-46e6-81c6-276148cb155f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -153,11 +104,24 @@
       <workItem from="1729316155005" duration="8742000" />
       <workItem from="1729326102551" duration="1315000" />
       <workItem from="1729330144099" duration="4559000" />
-      <workItem from="1729336334491" duration="1192000" />
+      <workItem from="1729336334491" duration="1541000" />
     </task>
+    <task id="LOCAL-00001" summary="Section1-Section6">
+      <option name="closed" value="true" />
+      <created>1729337890732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729337890732</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Section1-Section6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section1-Section6" />
   </component>
 </project>
