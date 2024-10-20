@@ -4,26 +4,118 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4765670-44fd-4a73-b960-f7d25fa9e671" name="Changes" comment="Section1-Section6">
-      <change afterPath="$PROJECT_DIR$/src/access/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/BankAccountMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/Speaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/SpeakerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/ex/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/ex/MaxCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/ex/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/ex/ShoppingCartMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memory/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memory/JavaMemoryMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memory/JavaMemoryMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static1/Data3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static1/DataMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/DecoMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/DecoUtil1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/ex/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/ex/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/ex/MathArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static2/ex/MathArrayUtilsMain.java" afterDir="false" />
+    <list default="true" id="d4765670-44fd-4a73-b960-f7d25fa9e671" name="Changes" comment="Section7">
+      <change afterPath="$PROJECT_DIR$/src/extend1/access/ExtendsAccessMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/access/child/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/access/parent/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex/ShopMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex1/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex1/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex1/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex2/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex2/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex2/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex3/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex3/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex3/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex3/HydrogCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex4/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex4/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex4/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex4/GasCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/ex4/HydrogCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/super1/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/super1/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/super1/Super1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/super2/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/super2/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/super2/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extend1/super2/Super2Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ConstantMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ConstantMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ConstructInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FieldInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FinalFieldMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FinalLocalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/FinalRefMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ex/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/final1/ex/MemberMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/Car0/CarMain0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/Car0/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/Car0/K3Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/Car0/Model3Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/PolyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car1/CarMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car1/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car1/K3Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/car1/Model3Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/diamond/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/diamond/DiamondMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/diamond/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/diamond/InterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay0/KakaoPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay0/NaverPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay0/PayMain0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay0/PayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/KakaoPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/NaverPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/Pay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/PayMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/PayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/PayStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex/sender/EmailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex/sender/FaceBookSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex/sender/SendMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex/sender/Sender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex/sender/SnsSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/AnimalSoundMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Caw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex2/AnimalPolyMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex2/AnimalPolyMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex2/AnimalPolyMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Caw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex3/AbstractAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex3/AbstractMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex4/AbstractAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex4/AbstractMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex4/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex4/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex5/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex5/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex5/InterfaceAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex5/InterfaceMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/AbstractAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex6/SoundFlyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/overriding/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/overriding/OverringMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/overriding/Parent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +128,7 @@
       <list>
         <option value="package-info" />
         <option value="Python Script" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -66,58 +159,90 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BankAccountMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BookMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CarMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassStart1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassStart2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassStart4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DecoMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InitMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaMemoryMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaMemoryMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodChange.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodInitMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MovieReviewMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MovieReviewMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MusicPlayerMain4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullMain2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullMain3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NullMain4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductOrderMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RectangleOopMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ShoppingCartMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SpeakerMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValueDataMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ValueObjectMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VarChange2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.classStart3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbstractMain.executor": "Run",
+    "Application.AnimalPolyMain1.executor": "Run",
+    "Application.AnimalPolyMain3.executor": "Run",
+    "Application.AnimalSoundMain.executor": "Run",
+    "Application.BankAccountMain.executor": "Run",
+    "Application.BookMain.executor": "Run",
+    "Application.CarMain.executor": "Run",
+    "Application.CarMain0.executor": "Run",
+    "Application.CarMain1.executor": "Run",
+    "Application.CastingMain5.executor": "Run",
+    "Application.ClassStart1.executor": "Run",
+    "Application.ClassStart2.executor": "Run",
+    "Application.ClassStart4.executor": "Run",
+    "Application.ConstantMain1.executor": "Run",
+    "Application.ConstantMain2.executor": "Run",
+    "Application.DataMain3.executor": "Run",
+    "Application.DecoMain1.executor": "Run",
+    "Application.DiamondMain.executor": "Run",
+    "Application.ExtendsAccessMain.executor": "Run",
+    "Application.FinalFieldMain.executor": "Run",
+    "Application.InitMain.executor": "Run",
+    "Application.InterfaceMain.executor": "Run",
+    "Application.JavaMemoryMain1.executor": "Run",
+    "Application.JavaMemoryMain2.executor": "Run",
+    "Application.Main1.executor": "Run",
+    "Application.MathArrayUtilsMain.executor": "Run",
+    "Application.MemberMain.executor": "Run",
+    "Application.Method1.executor": "Run",
+    "Application.Method2.executor": "Run",
+    "Application.MethodChange.executor": "Run",
+    "Application.MethodInitMain3.executor": "Run",
+    "Application.MovieReviewMain1.executor": "Run",
+    "Application.MovieReviewMain2.executor": "Run",
+    "Application.MusicPlayerMain4.executor": "Run",
+    "Application.NullMain1.executor": "Run",
+    "Application.NullMain2.executor": "Run",
+    "Application.NullMain3.executor": "Run",
+    "Application.NullMain4.executor": "Run",
+    "Application.OverringMain.executor": "Run",
+    "Application.PayMain0.executor": "Run",
+    "Application.PayMain1.executor": "Run",
+    "Application.PolyMain.executor": "Run",
+    "Application.ProductOrderMain.executor": "Run",
+    "Application.RectangleOopMain.executor": "Run",
+    "Application.SendMain.executor": "Run",
+    "Application.ShopMain.executor": "Run",
+    "Application.ShoppingCartMain.executor": "Run",
+    "Application.SoundFlyMain.executor": "Run",
+    "Application.SpeakerMain.executor": "Run",
+    "Application.Super1Main.executor": "Run",
+    "Application.Super2Main.executor": "Run",
+    "Application.ValueDataMain.executor": "Run",
+    "Application.ValueObjectMain.executor": "Run",
+    "Application.VarChange2.executor": "Run",
+    "Application.classStart3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/java/java-basic/src/poly/ex/pay1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\java\java-basic\src\poly\ex\pay1" />
+      <recent name="E:\java\java-basic\src\poly\ex" />
+      <recent name="E:\java\java-basic\src\poly\ex4" />
+      <recent name="E:\java\java-basic\src\poly\ex2" />
+      <recent name="E:\java\java-basic\src\extend1\ex4" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="access.ex" />
-      <recent name="construct" />
-      <recent name="oop1" />
-      <recent name="ref" />
-      <recent name="class1.ex" />
+      <recent name="poly.Car0" />
+      <recent name="poly.diamond" />
+      <recent name="poly.ex2" />
+      <recent name="poly" />
+      <recent name="final1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -142,7 +267,7 @@
       <workItem from="1729330144099" duration="4559000" />
       <workItem from="1729336334491" duration="4494000" />
       <workItem from="1729342087632" duration="4608000" />
-      <workItem from="1729347499118" duration="369000" />
+      <workItem from="1729347499118" duration="25535000" />
     </task>
     <task id="LOCAL-00001" summary="Section1-Section6">
       <option name="closed" value="true" />
@@ -160,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729338048649</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Section7">
+      <option name="closed" value="true" />
+      <created>1729348046015</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729348046015</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +301,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Section1-Section6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section1-Section6" />
+    <MESSAGE value="Section7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section7" />
   </component>
 </project>
